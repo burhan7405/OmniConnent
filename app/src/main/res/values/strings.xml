@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OmniBond</string>
+    <string name="title_bonding_dashboard">Channel Bonding</string>
+    <string name="title_sim_manager">Dual SIM &amp; Wi-Fi</string>
+    <string name="title_speed_aggregator">Aggregated Speed Test</string>
+    <string name="title_multi_downloader">Bonded Downloader</string>
+    <string name="title_system_guide">Dual-Data Setup Guide</string>
+</resources>

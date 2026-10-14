@@ -1,0 +1,6 @@
+{
+  "name": "OmniBond",
+  "description": "Multi-network channel bonding and bandwidth aggregator combining Wi-Fi and Dual-SIM mobile data concurrently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
